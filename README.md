@@ -1,6 +1,6 @@
 # 7arf — Lire l'Arabizi tunisien en écriture arabe
 
-![Démonstration de 7arf](docs/demo.gif)
+![Démonstration de 7arf](docs/demo_7arf.gif)
 
 **7arf** (حرف, « lettre ») transforme un message écrit en **Arabizi tunisien** (lettres latines + chiffres) en **écriture arabe**. Le modèle est un **Encodeur–Décodeur LSTM avec attention de Bahdanau**, écrit et entraîné **from scratch en PyTorch**.
 
