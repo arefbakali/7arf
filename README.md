@@ -259,5 +259,5 @@ Aucun fichier de licence n'est inclus pour le code. Les données TArC restent so
 ## Auteur
 
 **Aref Bak Ali**  
-Master AIDA — Université Paris Dauphine-PSL  
+Master IASD— Université Paris Dauphine-PSL  
 Encadré par **Pr. Tarifa Amal**
