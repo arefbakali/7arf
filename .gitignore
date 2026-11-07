@@ -1,0 +1,45 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+
+# Environnements virtuels
+.venv/
+venv/
+env/
+ENV/
+
+# Secrets et configuration locale
+.env
+.env.*
+*.pem
+*.key
+credentials*.json
+client_secret*.json
+
+# Jupyter
+.ipynb_checkpoints/
+
+# IDE / système
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Sorties d'entraînement intermédiaires (non utilisées par l'application)
+runs/
+models/**/last.pt
+*.ckpt
+
+# Archives et fichiers lourds non destinés au dépôt
+*.zip
+*.tar
+*.tar.gz
+*.7z
+*.log
+
+# Les checkpoints best.pt (7–15 Mo chacun, ~154 Mo au total) sont conservés :
+# ils portent les résultats publiés. Pour un dépôt plus léger, utiliser Git LFS :
+#   git lfs install && git lfs track "models/**/*.pt"

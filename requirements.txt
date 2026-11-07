@@ -1,0 +1,9 @@
+torch>=2.0
+numpy
+pandas
+matplotlib
+sacrebleu
+jupyter
+pillow
+pytesseract
+# OCR : programme Tesseract (fra, eng) à installer à part
